@@ -23,4 +23,4 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-YouTube Video Link - https://www.youtube.com/watch?v=xswX6nmgYno&feature=youtu.be 
+GIF Link: http://imgur.com/a/RqAZp
