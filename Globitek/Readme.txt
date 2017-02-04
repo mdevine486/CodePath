@@ -5,7 +5,6 @@ Submitted by: Man Mohan Devineni
 Time spent: 10 hours spent in total
 
 User Stories -
-
 The following required functionality is complete:
 [Y]Create a Users Table
 [Y]Create a Page with an HTML Form
