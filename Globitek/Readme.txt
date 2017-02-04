@@ -1,15 +1,12 @@
 Assignment - Week1
 
 Registration form where user when register his credentials are stored in a Database Table
-
 Submitted by: Man Mohan Devineni
-
 Time spent: 10 hours spent in total
 
-User Stories
+User Stories -
 
 The following required functionality is complete:
-
 [Y]Create a Users Table
 [Y]Create a Page with an HTML Form
 [Y]Detect when the form is submitted.
@@ -19,5 +16,5 @@ The following required functionality is complete:
 [Y]Redirect the user to a confirmation page.
 [Y]Sanitize all dynamic output for HTML.
 
-Video Walkthrough
-Gif Link -
+Video Walkthrough-
+Gif Link:
