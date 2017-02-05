@@ -16,4 +16,4 @@ The following required functionality is complete:
 [Y]Sanitize all dynamic output for HTML.
 
 Video Walkthrough-
-Gif Link:
+Gif Link: http://i.imgur.com/ssVtJPm.gif
